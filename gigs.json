@@ -1,0 +1,9 @@
+{
+  "_comment": "Add a gig here and redeploy. Past dates drop off the site automatically. Keep Bandsintown updated too, that is what feeds Spotify and Apple.",
+  "gigs": [
+    { "date": "2026-09-12", "city": "Gold Coast", "venue": "Wallaby Hotel", "tickets": "" },
+    { "date": "2026-09-27", "city": "Brisbane",   "venue": "The Zoo",       "tickets": "" },
+    { "date": "2026-10-11", "city": "Toowoomba",  "venue": "Spotted Cow",   "tickets": "" },
+    { "date": "2026-11-02", "city": "Byron Bay",  "venue": "The Northern",  "tickets": "" }
+  ]
+}

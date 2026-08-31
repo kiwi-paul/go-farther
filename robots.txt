@@ -1,0 +1,8 @@
+# PRE-LAUNCH: nothing is indexed until the real domain is live.
+# At launch, replace the two lines below with:
+#   User-agent: *
+#   Allow: /
+User-agent: *
+Disallow: /
+
+Sitemap: https://gofarther-8ud.pages.dev/sitemap.xml

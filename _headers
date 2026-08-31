@@ -1,0 +1,21 @@
+# PRE-LAUNCH: belt and braces on top of the robots meta tag and robots.txt.
+# Delete this whole block at launch.
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive
+
+/assets/img/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/assets/js/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
