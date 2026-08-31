@@ -1,0 +1,9 @@
+{
+  // Static site served by Workers Static Assets. No build step, no server code.
+  "name": "go-farther",
+  "compatibility_date": "2026-08-31",
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "404-page"
+  }
+}

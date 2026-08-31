@@ -1,0 +1,10 @@
+# Not part of the public site
+.git
+.gitignore
+.assetsignore
+wrangler.jsonc
+README.md
+docs
+node_modules
+.wrangler
+.DS_Store
