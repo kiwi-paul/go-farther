@@ -142,7 +142,7 @@ var VIDEO_URL = "https://pub-ceb708839e654762834a70efa034f829.r2.dev/Never%20Say
     v.controls = true;
     v.playsInline = true;
     v.preload = 'auto';
-    v.poster = '/assets/img/video-poster-wallaby.jpg';
+    v.poster = '/assets/img/video-poster-wallaby-v2.jpg';
     v.src = VIDEO_URL;
     wrap.innerHTML = '';
     wrap.appendChild(v);
