@@ -8,3 +8,6 @@ docs
 node_modules
 .wrangler
 .DS_Store
+
+# brand source files, not part of the public site
+brand
