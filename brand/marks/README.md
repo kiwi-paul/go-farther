@@ -52,15 +52,15 @@ distressing is the real thing rather than a reconstruction. Measured speckle den
 482 blobs per megapixel against the original's 552. Regenerating from the licensed
 webfont gave only 78, because font.download's WOFF conversion smooths the outlines.
 
-**Roundel** is rebuilt from Reprise Title, because the only source available is 345px
-square, which is too small to trace cleanly. The construction is measured off the
-original: the G and F do not interlock, they sit side by side with a hair of gap and the
-F drops 41% of the cap height so it hangs below the G. The letterforms are close but not
-identical, and the original looks like it used a heavier face than Reprise Title.
+**Roundel** is traced from the 512px original at 8x, so the speckle and the letter
+spacing are the real artwork rather than a reconstruction. The G and F overlap: the F's
+top arm crosses the G's right side and the F drops well below the G's baseline. An
+earlier version rebuilt the monogram from Reprise Title and set the letters apart with a
+gap, which was wrong.
 
-To match it exactly I need either the original roundel artwork at print size, or the
-name of the font it was set in.
-
+The source is only 512px square, so the contours are slightly soft at very large sizes.
+Fine for anything up to a kick drum head. If the roundel artwork turns up at print size,
+retrace it.
 
 ## Letter-level adjustments: not applied
 
